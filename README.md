@@ -3,7 +3,7 @@
 </a>
 
 # Bank Customer Churn
-<img src="https://github.com/user-attachments/assets/cc2a5649-6852-477f-aa1a-6256397d679a" alt="excel-icon" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/cc2a5649-6852-477f-aa1a-6256397d679a" alt="excel-icon" width="60" height="50">
 
 ## Table of Contents
 - [Overview](#overview)
