@@ -8,9 +8,37 @@
 - [Overview](#overview)
 - [Data Summary](#data-summary)
 - [Important KPIs](#important-kpis)
-- [Insights](#insights)
+- [Summary of Insights](#summary-of-insights)
 
 ## Overview
+This project focuses on building an interactive Excel dashboard to analyze the key factors influencing customer retention in the banking sector. Understanding the reasons behind customer churn is crucial for banks, as it enables the development of effective loyalty programs and targeted retention campaigns. By identifying trends, patterns, and critical metrics, the dashboard provides actionable insights to improve customer engagement, satisfaction, and overall loyalty, helping banks minimize attrition and foster long-term relationships with their clients
+
+## Data Summary
+- <b>RowNumber—</b> Corresponds to the record (row) number
+- <b>CustomerId—</b> Contains random values
+- <b>Surname—</b> The surname of a customer
+- <b>CreditScore—</b> This attribute can affect customer churn since a customer with a higher credit score is less likely to leave the bank.
+- <b>Geography—</b> A customer’s location can affect their decision to leave the bank.
+- <b>Gender—</b> It’s interesting to explore whether gender plays a role in a customer leaving the bank.
+- <b>Age—</b> This is certainly relevant since older customers are less likely to leave their bank than younger ones.
+- <b>Tenure—</b> Refers to the number of years that the customer has been a client of the bank. Normally, older clients are more loyal and less likely to leave a bank.
+- <b>Balance—</b> Is also a very good indicator of customer churn, as people with a higher balance in their accounts are less likely to leave the bank compared to those with lower balances.
+- <b>NumOfProducts—</b> Refers to the number of products that a customer has purchased through the bank.
+- <b>HasCrCard—</b> Denotes whether or not a customer has a credit card. This column is also relevant since people with credit cards are less likely to leave the bank.
+- <b>IsActiveMember—</b> Active customers are less likely to leave the bank.
+- <b>EstimatedSalary—</b> As with balance, people with lower salaries are more likely to leave the bank compared to those with higher salaries.
+- <b>Exited—</b> Whether or not the customer left the bank.
+- <b>Complain—</b> Customer has complaint or not.
+- <b>Satisfaction Score—</b> Score provided by the customer for their complaint resolution.
+- <b>Card Type—</b> Type of card hold by the customer.
+- <b>Points Earned—</b> the points earned by the customer for using a credit card.
+
+## Important KPIs
+
+## Summary of Insights
+
+
+
 
 
 
