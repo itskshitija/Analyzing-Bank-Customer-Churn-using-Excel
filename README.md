@@ -29,9 +29,9 @@ This project focuses on building an interactive Excel dashboard to analyze the k
 - <b>Geography—</b> A customer’s location can affect their decision to leave the bank.
 - <b>Gender—</b> It’s interesting to explore whether gender plays a role in a customer leaving the bank.
 - <b>Age—</b> This is certainly relevant since older customers are less likely to leave their bank than younger ones.
-- <b>Tenure—</b> Refers to the number of years that the customer has been a client of the bank. Normally, older clients are more loyal and less likely to leave a bank.
-- <b>Balance—</b> Is also a very good indicator of customer churn, as people with a higher balance in their accounts are less likely to leave the bank compared to those with lower balances.
-- <b>NumOfProducts—</b> Refers to the number of products that a customer has purchased through the bank.
+- <b>Tenure—</b> Refers to the number of years that the customer has been a bank client. Normally, older clients are more loyal and less likely to leave a bank.
+- <b>Balance—</b> Is also a very good indicator of customer churn, as people with a higher balance in their accounts are less likely to leave the bank than those with lower balances.
+- <b>NumOfProducts—</b> Refers to the number of products a customer has purchased through the bank.
 - <b>HasCrCard—</b> Denotes whether or not a customer has a credit card. This column is also relevant since people with credit cards are less likely to leave the bank.
 - <b>IsActiveMember—</b> Active customers are less likely to leave the bank.
 - <b>EstimatedSalary—</b> As with balance, people with lower salaries are more likely to leave the bank compared to those with higher salaries.
@@ -42,9 +42,16 @@ This project focuses on building an interactive Excel dashboard to analyze the k
 - <b>Points Earned—</b> the points earned by the customer for using a credit card.
 
 ## Important KPIs
+- Total Customers
+- Total Active Customers
+- Total Inactive Customers
+- Total Exit Customers
+- Total Retain Customers
+- Total Credit Card holders
+- Total Non-Credit Card holders
+- Total Complaints
 
 ## Summary of Insights
-
 
 
 
