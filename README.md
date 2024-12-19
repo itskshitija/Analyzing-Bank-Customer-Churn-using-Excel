@@ -14,7 +14,7 @@
 This project focuses on building an interactive Excel dashboard to analyze the key factors influencing customer retention in the banking sector. Understanding the reasons behind customer churn is crucial for banks, as it enables the development of effective loyalty programs and targeted retention campaigns. By identifying trends, patterns, and critical metrics, the dashboard provides actionable insights to improve customer engagement, satisfaction, and overall loyalty, helping banks minimize attrition and foster long-term relationships with their clients
 
 ## Dashboard Preview
-[Link to the Live Dashboard](https://1drv.ms/x/s!AsfVuegsefXJjVc8rZZry3qv6ncP?e=IDHMWV&nav=MTVfezNBODQxRUVGLUQ4NUMtNDBGOC1BQzBGLTE3MkQwMkYwOUFCNH0)
+[Link to the Live Dashboard](https://1drv.ms/x/s!AsfVuegsefXJjVc8rZZry3qv6ncP?e=SraSTJ&nav=MTVfezkwNEM3Q0U3LUExMUYtNEVGOC1CQzFFLTVBMzNENjY1NDE1RX0)
 
 ![dashboard](https://github.com/user-attachments/assets/b500891b-a00c-4f15-be12-4b6a91ff7803)
 
