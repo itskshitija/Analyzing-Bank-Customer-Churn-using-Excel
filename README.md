@@ -9,8 +9,6 @@
 - [Overview](#overview)
 - [Dashboard Preview](#dashboard-preview)
 - [Data Summary](#data-summary)
-- [Important KPIs](#important-kpis)
-- [Summary of Insights](#summary-of-insights)
 
 ## Overview
 This project focuses on building an interactive Excel dashboard to analyze the key factors influencing customer retention in the banking sector. Understanding the reasons behind customer churn is crucial for banks, as it enables the development of effective loyalty programs and targeted retention campaigns. By identifying trends, patterns, and critical metrics, the dashboard provides actionable insights to improve customer engagement, satisfaction, and overall loyalty, helping banks minimize attrition and foster long-term relationships with their clients
@@ -41,18 +39,7 @@ This project focuses on building an interactive Excel dashboard to analyze the k
 - <b>Card Type—</b> Type of card hold by the customer.
 - <b>Points Earned—</b> the points earned by the customer for using a credit card.
 
-## Important KPIs
-- Total Customers
-- Total Active Customers
-- Total Inactive Customers
-- Total Exit Customers
-- Total Retain Customers
-- Total Credit Card holders
-- Total Non-Credit Card holders
-- Total Complaints
-
-## Summary of Insights
-
+# For the comprehensive analysis of this project, please review my Medium Blog. [Here](https://medium.com/@kshitijachilbule2/customer-churn-analysis-in-bank-07bd1ce19090)
 
 
 
