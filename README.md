@@ -41,12 +41,7 @@ This project focuses on building an interactive Excel dashboard to analyze the k
 
 # For the comprehensive analysis of this project, please review my Medium Blog. [Here](https://medium.com/@kshitijachilbule2/customer-churn-analysis-in-bank-07bd1ce19090)
 
-# **Author Information**
-
-#### 👤Kshitija Chilbule
-
-### Contact Information:
-- 📞 <b>Phone:</b> 7620424864
+# Connect🤝
 - 📩 <b>Email:</b> kshitijachilbule5@gmail.com
 - 👩‍💻 <b>Github:</b> https://github.com/itskshitija
 - 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/
