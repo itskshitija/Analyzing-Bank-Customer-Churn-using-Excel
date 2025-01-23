@@ -2,6 +2,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge" style="height: 30px; width: auto;">
 </a>
 
+# For the comprehensive analysis of this project, please review my Medium Blog. [Here](https://medium.com/@kshitijachilbule2/customer-churn-analysis-in-bank-07bd1ce19090)
+
 # Bank Customer Churn
 <img src="https://github.com/user-attachments/assets/cc2a5649-6852-477f-aa1a-6256397d679a" alt="excel-icon" width="60" height="50">
 
@@ -38,8 +40,6 @@ This project focuses on building an interactive Excel dashboard to analyze the k
 - <b>Satisfaction Score—</b> Score provided by the customer for their complaint resolution.
 - <b>Card Type—</b> Type of card hold by the customer.
 - <b>Points Earned—</b> the points earned by the customer for using a credit card.
-
-# For the comprehensive analysis of this project, please review my Medium Blog. [Here](https://medium.com/@kshitijachilbule2/customer-churn-analysis-in-bank-07bd1ce19090)
 
 # Connect🤝
 - 📩 <b>Email:</b> kshitijachilbule5@gmail.com
